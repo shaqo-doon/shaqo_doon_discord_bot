@@ -1,4 +1,0 @@
-#ifndef TOKEN_HEADER
-#define TOKEN_HEADER
-#define BOT_TOKEN "Nzk2MDcwOTQ0OTc2MTQyNDU2.X_Sk1w.LrlCb1ltY1lyPPxLF8bGNyWEP70"
-#endif
