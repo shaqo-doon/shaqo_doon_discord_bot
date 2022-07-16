@@ -1,0 +1,22 @@
+{
+  "name": "peviitor.bot",
+  "version": "1.0.0",
+  "description": "discord bot for peviitor.ro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peviitor-ro/peviitor.bot.git"
+  },
+  "author": "sebiboga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peviitor-ro/peviitor.bot/issues"
+  },
+  "homepage": "https://github.com/peviitor-ro/peviitor.bot#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  }
+}
